@@ -1,6 +1,6 @@
 # Sem código
 
-Nenhum código é a melhor maneira de escrever aplicativos seguros e confiáveis. Não escreva nada; implante em lugar nenhum.
+Ás vezes, não fazer nenhum código é a melhor maneira de escrever aplicativos seguros e confiáveis. Não escreva nada; não faça upload a lugar algum.
 
 ## Introdução
 
@@ -10,13 +10,13 @@ Comece sem escrever nenhum código.
 
 ```
 
-Este é apenas um aplicativo de exemplo, mas imagine-o fazendo qualquer coisa que você quiser. Adicionar novos recursos também é fácil:
+Este é apenas uma aplicação de exemplo, mas imagine fazendo qualquer coisa que você quiser. Adicionar novos recursos também é bem fácil:
 
 ```
 
 ```
 
-As possibilidades são infinitas.
+As possibilidades são infinitas!
 
 ### Construindo o aplicativo
 
@@ -46,8 +46,8 @@ Enquanto você ainda não fez nada, é hora de implantar seu aplicativo. Ao exec
 
 ```
 
-Eu sei, certo?
+Legal, né? Eu sei! Que solução incrível!
 
 ## Contribuindo
 
-Você não sabe.
+You don't know :P
