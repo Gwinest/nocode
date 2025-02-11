@@ -1,5 +1,7 @@
 # Sem código
 
+Todos os programas sem código são iguais, independentemente do caso de uso, pois qualquer código que você escrever a mais será um risco. 
+Código é arriscado: quanto mais linhas, mais espaço pra criação de bugs!
 Ás vezes, não fazer nenhum código é a melhor maneira de escrever aplicativos seguros e confiáveis. Não escreva nada; não faça upload a lugar algum.
 
 ## Introdução
@@ -50,4 +52,5 @@ Legal, né? Eu sei! Que solução incrível!
 
 ## Contribuindo
 
-You don't know :P
+Todas as mudanças são bem-vindas, desde que não haja código envolvido.
+Se você encontrar algum bug, abra uma issue e explique como isso é possível...
